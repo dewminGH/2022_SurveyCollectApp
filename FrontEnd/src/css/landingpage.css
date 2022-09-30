@@ -1,0 +1,18 @@
+.landing-header{
+    color: #ffff;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.landing-image{
+    float: right;
+}
+
+.landing-magin{
+    margin-bottom: 15% !important;
+}
+
+.content{
+    margin-left: 5% !important;
+    padding-bottom: 10% !important;
+}

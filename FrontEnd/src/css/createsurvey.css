@@ -1,0 +1,34 @@
+.create-survey{
+    padding: 10% 10% !important;
+}
+
+.survey-header{
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.form-wapper{
+    padding-bottom: 5% !important;
+}
+
+.input-field-red::placeholder{
+    color: #F75656 !important;
+}
+
+.input-field-gray::placeholder{
+    color: #929291 !important;
+}
+
+.input-field-gray,.input-field-red{
+    font-size: 18px !important;
+}
+
+.input-lebal{
+    font-weight: 600 !important;
+    font-size: 22px !important;
+    color: black !important;
+}
+
+.survey-invalied-email{
+    color: #F75656 !important;
+}

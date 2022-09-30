@@ -1,0 +1,33 @@
+.boxCard{
+    background: transparent !important;
+}
+
+.smarginsurveyCard{
+    margin: 10% 10% !important;
+}
+
+.icon-recipients{
+    position: absolute !important;
+}
+
+.mail-recipients{
+    font-size: 16px !important;
+}
+.mail-recipients{
+    margin-left: 7% !important;
+}
+
+.extra{
+    display: inline-flex !important;
+    margin-left: 2% !important;
+}
+
+@media  only screen and (max-width:500px) {
+    .mail-recipients{
+        font-size: larger !important;
+    }
+    .icon-recipients{
+        display: none !important;
+    }
+    
+}

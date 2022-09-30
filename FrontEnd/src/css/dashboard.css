@@ -1,0 +1,9 @@
+.dashboard-survey-btn{
+    padding-bottom: 5% !important;
+}
+
+@media only screen and (max-width: 700px){
+    .dashboard-survey-btn{
+        padding-bottom: 10% !important
+    }
+}

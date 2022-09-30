@@ -1,0 +1,25 @@
+.createConfrim-survey{
+    padding: 10% 10% !important;
+}
+
+.surveyConfrim-header{
+    text-align: center;
+    padding-bottom: 7%;
+}
+
+.form-wapper{
+    padding-bottom: 5% !important;
+}
+
+.confirm-input-lebal{
+    font-weight: 600;
+    font-size: 22px !important;
+    color: black !important;
+    position: inherit !important;
+}
+
+.confirm-input-field{
+    font-size: 18px !important;
+    position: inherit !important
+   
+}

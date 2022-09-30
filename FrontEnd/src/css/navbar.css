@@ -1,0 +1,33 @@
+.nav-bar-header{
+    color: #ffff !important;
+}
+
+.nav-bar{
+    background-color: #031321 !important;
+}
+
+.nav-margin{
+    padding-left: 5% !important;
+    padding-right: 5%!important;
+}
+
+@media only screen and (max-width: 992px){
+.nav-mobile-title{
+    font-size: larger !important;
+    display: contents !important;
+    left: 0% !important;
+    
+}
+.nav-items{
+    display: inline-block !important
+}
+h1{
+    font-size: 8ch !important;
+}
+h2{
+    font-size: 5ch !important;
+}
+h3{
+    font-size: 4ch !important;
+}
+}
